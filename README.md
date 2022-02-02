@@ -34,8 +34,6 @@
 
   BENİ TAKİP ET
 
-</p>
-
 <p align="center">
 
   <a href="https://www.instagram.com/canpolatgkky">
@@ -43,5 +41,3 @@
   </a>
 
   <a href="https://t.me/androedit">
-
-</p>
