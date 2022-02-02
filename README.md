@@ -34,10 +34,6 @@
 
   BENİ TAKİP ET
 
-<p align="center">
+ "https://www.instagram.com/canpolatgkky"
 
-  <a href="https://www.instagram.com/canpolatgkky">
-
-  </a>
-
-  <a href="https://t.me/androedit">
+ "https://t.me/androedit"
