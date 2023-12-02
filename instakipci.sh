@@ -1,7 +1,7 @@
 #!/bin/bash
 # instakipci v2.0
-# coded by : CANPOLAT GÖKKAYA
-# github.com/coderbycanpolat
+# coded by : Meyitzade
+# github.com/Meyit47
 
 
 clear
@@ -26,7 +26,7 @@ echo -e " ❂ 𝐈𝐍𝐒𝐓𝐀𝐆𝐑𝐀𝐌 𝐎𝐑𝐆𝐀𝐍𝐈𝐊 
 
 
 
-echo -e "       coded  by - \e[1;92mcanpolatgkky "
+echo -e "       coded  by - \e[1;92mMeyit47 "
 
 }
 
@@ -266,7 +266,7 @@ increase_followers
 
 elif [[ $option -eq 2 ]]; then
 printf "\n"
-printf "  \e[1;91mGüle Güle Telegram'dan @androedit kanalına Katılmayı Unutma :) !!\e[0m\n"
+printf "  \e[1;91mGüle Güle Telegram'dan @S1F1RB1RCHAT grubuna Katılmayı Unutma :) !!\e[0m\n"
 printf "\n"
 exit
 
