@@ -18,9 +18,9 @@
 
 `$ pkg install git`
 
-`$ git clone https://github.com/coderbycanpolat/instakipci`
+`$ git clone https://github.com/Meyit47/igtakip`
 
-`$ cd instakipci`
+`$ cd igtakip`
 
 `$ chmod +x instakipci.sh`
 
@@ -32,8 +32,8 @@
 
 <p align="center">
 
-  BENİ TAKİP ET
+  BEN BURDAYIM
 
- "https://www.instagram.com/canpolatgkky"
+ "https://t.me/Meyit47"
 
- "https://t.me/androedit"
+ "https://t.me/S1F1RB1RCHAT"
